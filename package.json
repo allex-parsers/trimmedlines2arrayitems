@@ -1,0 +1,23 @@
+{
+  "name": "allex_trimmedlines2arrayitemsparser",
+  "version": "1.0.0",
+  "description": "Parses a text file, trims every line and produces an array with an element per trimmed line",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.hers.rs:allex_parsers/trimmedlines2arrayitems.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "trimmed",
+    "lines",
+    "array",
+    "items",
+    "parser"
+  ],
+  "author": "HERS Belgrade",
+  "license": "ISC"
+}
